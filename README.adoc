@@ -1,0 +1,92 @@
+:doctype: book
+:imagesdir: ./images
+:iconsdir: ./icons
+:nofooter:
+
+= Maria Zhirko
+
+DevOps Engineer::
+image:location.png[20,20] | Minsk, Belarus +
+image:phone.png[20,20] | +375(29)3778667 +
+image:gmail.png[20,20] | \mzhirko@gmail.com +
+image:gh.png[20,20] | https://github.com/mzhirko[mzhirko] 
+
+[#work-experience]
+=== Education
+'''
+[horizontal]
+2022  ~June~:: **Belarusian State University of Informatics and Radioelectronics;** Faculty: Faculty of Information Technologies and Control; +
+Degree:  Artificial Intelligence.
+2018  ~May~:: Minsk Gymnasium 29; Educational focus: English and Mathemathics.
+
+[#it-skills]
+=== IT Skills
+'''
+[horizontal]
+Core Skills: :: 
+Software Development:::
+Programming languages: Python, C++, Java, Bash; +
+Tools: Git, GitHub, Gradle, Docker, PlantUML, Tex, asciidoc, SQL, CI, OOP.
+
+Operating Systems: :: 
+Linux:::
+Xubuntu, Ubuntu, Mint +
+Others:::
+Microsoft Windows +
+MacOS Sierra +
+
+[#language-skills]
+=== Language Skills
+'''
+[horizontal]
+Fluent: :: English
+Basic: :: German
+Native: :: Belarusian
+Native: :: Russian
+
+[#projects]
+=== Projects
+'''
+[horizontal]
+Parking lot control system: :: 
+https://github.com/mzhirko/convenient-parking[Convenient parking]:::
+An application for recognizing free parking spaces using M-RCNN. +
+Programming language: Python; +
+Tools: Docker, Keras, Tensorflow v.1, OpenCV.
+
+Image compression tool: :: 
+https://github.com/mzhirko/image-compressor[Image compressor]:::
+An application for compressing images using conception of recirculation neural network with adaptive learning step and normalization of weights. +
+Programming language: Python.
+
+Documentation writing: :: 
+https://github.com/mzhirko/amusement-park[Amusement Park Simulation]:::
+The conception of a project is to show documentation writing skills, based on knowledge of certain projecting patterns such as KISS, SOLID etc. The advantage of writing documentation as code is in its convenience to develop document and control changes. +
+Tools: Asciidoc, PlantUML.
+
+Visualized minimum cut algorithm: :: 
+https://github.com/mzhirko/minimum-cut-of-an-undirected-graph[Visualised Stoer-Wagner algorithm]:::
+This project demonstrates the work of Stoer-Wagner algorithm, that is used to find a minimum cut of a graph. Demonstrantion is visualized with graphviz tool +
+Programming language: C++; +
+Tools: Graphviz.
+
+Java Doohickeys: :: 
+https://github.com/mzhirko/javafx-basics[Java Frames]:::
+Project with a configured CI. Shows different visuals made by using JavaFX lib. +
+Programming language: Java; +
+Tools: Gradle, Github CI.
+
+[#interests]
+=== Personal Interests
+'''
+[horizontal]
+Hobbies: :: 
+travelling, driwing, drawing, art, self-education, walking, baking, communication, electronics, classical literature & music.
+
+[#perspectives]
+=== Perspectives
+'''
+[horizontal]
+Grow and develop soft and hard skills in order to correspond surrounding requierements; +
+Take an advantage of doing hard tasks to get higher on the proficiency scale. +
+Passion to work with high-loaded, scalable, distributed, real-time information processing systems.
