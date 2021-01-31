@@ -25,7 +25,7 @@ Degree:  Artificial Intelligence.
 [horizontal]
 Software Development:::
 Programming languages:: Python, C++, Java, SQL, Bash; +
-Skills:: Docker, Docker Compose, Docker Swarm, CI/CD, Git, Gradle, AWS, Serverless, Terraform, k8s, MySQL, Linux Administration.
+Skills:: Docker, Docker Compose, CI/CD, Git, Gradle, MySQL, Linux Administration.
 
 Operating Systems: :: 
 Linux:::
