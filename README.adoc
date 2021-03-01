@@ -25,7 +25,7 @@ Degree:  Artificial Intelligence.
 [horizontal]
 Software Development:::
 Programming languages:: Python, C++, Java, SQL, Bash; +
-Skills:: Docker, Docker Compose, CI/CD, Git, Gradle, MySQL, Linux Administration.
+Skills:: Docker, Docker Compose, CI/CD, Git, Gradle, Docker Swarm, AWS, Serverless, Terraform, k8s, MySQL, Linux Administration.
 
 Operating Systems: :: 
 Linux:::
@@ -80,7 +80,7 @@ Tools: Gradle, Github CI.
 '''
 [horizontal]
 Hobbies: :: 
-travelling, driwing, drawing, art, self-education, walking, baking, communication, electronics, classical literature & music.
+travelling, driving, drawing, art, self-education, walking, baking, communication, electronics, classical literature & music.
 
 [#perspectives]
 === Perspectives
