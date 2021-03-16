@@ -5,7 +5,7 @@
 
 = Maria Zhirko
 
-DevOps Engineer::
+Engineer::
 image:location.png[20,20] | Minsk, Belarus +
 image:phone.png[20,20] | +375(29)3778667 +
 image:gmail.png[20,20] | \mzhirko@gmail.com +
