@@ -15,6 +15,7 @@ image:gh.png[20,20] | https://github.com/mzhirko[mzhirko]
 === Education
 '''
 [horizontal]
+[frame="none"]
 2022  ~June~:: **Belarusian State University of Informatics and Radioelectronics;** Faculty: Faculty of Information Technologies and Control; +
 Degree:  Artificial Intelligence.
 2018  ~May~:: Minsk Gymnasium 29; Educational focus: English and Mathemathics.
