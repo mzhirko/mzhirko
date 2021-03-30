@@ -11,14 +11,6 @@ image:phone.png[20,20] | +375(29)3778667 +
 image:gmail.png[20,20] | \mzhirko@gmail.com +
 image:gh.png[20,20] | https://github.com/mzhirko[mzhirko] 
 
-[#work-experience]
-=== Education
-'''
-[horizontal]
-2022  ~June~::  **Belarusian State University of Informatics and Radioelectronics;** Faculty: Faculty of Information Technologies and Control; +
-Degree:  Artificial Intelligence.
-2018  ~May~:: Minsk Gymnasium 29; Educational focus: English and Mathematics.
-
 [#it-skills]
 === IT Skills
 '''
@@ -30,14 +22,6 @@ Degree:  Artificial Intelligence.
 ==== Operating Systems:
 *Linux:* Ubuntu, Debian, Mint, Arch; +
 *Other:* Windows WSL, MacOS (GNU core utils).
-
-[#language-skills]
-=== Language Skills
-'''
-*Fluent:* English; +
-*Basic:* German; +
-*Native:* Belarusian; +
-*Native:* Russian.
 
 [#projects]
 === Projects
@@ -77,6 +61,22 @@ Project link: https://github.com/mzhirko/javafx-basics[https://github.com/mzhirk
 Project with a configured CI. Shows different visuals made by using JavaFX lib. +
 Programming language: Java; +
 Tools: Gradle, Github CI.
+
+[#work-experience]
+=== Education
+'''
+[horizontal]
+2022  ~June~::  **Belarusian State University of Informatics and Radioelectronics;** Faculty: Faculty of Information Technologies and Control; +
+Degree:  Artificial Intelligence.
+2018  ~May~:: Minsk Gymnasium 29; Educational focus: English and Mathematics.
+
+[#language-skills]
+=== Language Skills
+'''
+*Fluent:* English; +
+*Basic:* German; +
+*Native:* Belarusian; +
+*Native:* Russian.
 
 [#interests]
 === Personal Interests
