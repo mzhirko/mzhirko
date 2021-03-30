@@ -24,11 +24,12 @@ Degree:  Artificial Intelligence.
 '''
 ==== Software Development:
 *Programming languages:* Python, C++, Java, SQL, Bash; +
-*Skills:* Docker, Docker Compose, CI/CD, Git, Gradle, MySQL, Linux Administration.
+*Frameworks:* numpy, pandas, matplotlib, OpenCV, Keras; +
+*Tools:* Docker, Docker Compose, CI/CD, Git, Gradle, MySQL.
 
 ==== Operating Systems:
 *Linux:* Xubuntu, Ubuntu, Mint; +
-*Others:* Microsoft Windows, MacOS Sierra.
+*Other:* Microsoft Windows, MacOS Sierra.
 
 [#language-skills]
 === Language Skills
