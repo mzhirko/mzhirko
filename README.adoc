@@ -17,7 +17,7 @@ image:gh.png[20,20] | https://github.com/mzhirko[mzhirko]
 [horizontal]
 2022  ~June~::  **Belarusian State University of Informatics and Radioelectronics;** Faculty: Faculty of Information Technologies and Control; +
 Degree:  Artificial Intelligence.
-2018  ~May~:: Minsk Gymnasium 29; Educational focus: English and Mathemathics.
+2018  ~May~:: Minsk Gymnasium 29; Educational focus: English and Mathematics.
 
 [#it-skills]
 === IT Skills
@@ -44,13 +44,13 @@ Degree:  Artificial Intelligence.
 '''
 ==== *Parking lot control system:*
 Project link: https://github.com/mzhirko/convenient-parking[https://github.com/mzhirko/convenient-parking]:::
-An application for recognizing free parking spaces using M-RCNN. User provides photo or video data to process and fimd free parking spaces on it. Containerized in Docker. +
+An application for recognizing free parking spaces using M-RCNN. The user provides photo or video data to process and find free parking spaces on it. Containerized in Docker. +
 Programming language: Python; +
 Tools: Docker, Keras, Tensorflow v.1, OpenCV.
 
 ==== *Image compression tool:* 
 Project link: https://github.com/mzhirko/image-compressor[https://github.com/mzhirko/image-compressor]:::
-An application for compressing images using conception of recirculation neural network with adaptive learning step and normalization of weights. +
+An application for compressing images using the conception of recirculation neural network with adaptive learning step and normalization of weights. +
 Programming language: Python; +
 Tools: matplotlib, numpy.
 
@@ -63,12 +63,12 @@ Tools: numpy.
 
 ==== *Documentation writing:*
 Project link: https://github.com/mzhirko/amusement-park[https://github.com/mzhirko/amusement-park]:::
-The conception of a project is to show documentation writing skills, based on knowledge of certain projecting patterns such as KISS, SOLID etc. The advantage of writing documentation as code is in its convenience to develop document and control changes. +
+The conception of a project is to show documentation writing skills, based on knowledge of certain projecting patterns such as KISS, SOLID, etc. The advantage of writing documentation as code is in its convenience to develop documents and control changes. +
 Tools: Asciidoc, PlantUML.
 
 ==== *Visualized minimum cut algorithm:* 
 Project link: https://github.com/mzhirko/minimum-cut-of-an-undirected-graph[https://github.com/mzhirko/minimum-cut-of-an-undirected-graph]:::
-This project demonstrates the work of Stoer-Wagner algorithm, that is used to find a minimum cut of a graph. Demonstrantion is visualized with graphviz tool. +
+This project demonstrates the work of the Stoer-Wagner algorithm, which is used to find a minimum cut of a graph. The demonstration is visualized with the Graphviz tool. +
 Programming language: C++; +
 Tools: Graphviz.
 
@@ -82,12 +82,12 @@ Tools: Gradle, Github CI.
 === Personal Interests
 '''
 *Hobbies:* +
-travelling, driving, drawing, art, self-education, walking, baking, communication, electronics, classical literature & music.
+traveling, driving, drawing, art, self-education, walking, baking, communication, electronics, classical literature & music.
 
 [#perspectives]
 === Perspectives
 '''
-Grow and develop soft and hard skills in order to correspond surrounding requierements; +
+Grow and develop soft and hard skills to correspond to surrounding requirements; +
 Take an advantage of doing hard tasks to get higher on the proficiency scale; +
 Passion to work with high-loaded, scalable, distributed, real-time information processing systems; +
-Desire to improve myfelf in the scientific field.
+Desire to improve in the scientific field.
