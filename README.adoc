@@ -43,29 +43,30 @@ Degree:  Artificial Intelligence.
 === Projects
 '''
 ==== *Parking lot control system:*
-https://github.com/mzhirko/convenient-parking[Convenient parking]:::
-An application for recognizing free parking spaces using M-RCNN. +
+Project link: https://github.com/mzhirko/convenient-parking[https://github.com/mzhirko/convenient-parking]:::
+An application for recognizing free parking spaces using M-RCNN. User provides photo or video data to process and fimd free parking spaces on it. Containerized in Docker. +
 Programming language: Python; +
 Tools: Docker, Keras, Tensorflow v.1, OpenCV.
 
 ==== *Image compression tool:* 
-https://github.com/mzhirko/image-compressor[Image compressor]:::
+Project link: https://github.com/mzhirko/image-compressor[https://github.com/mzhirko/image-compressor]:::
 An application for compressing images using conception of recirculation neural network with adaptive learning step and normalization of weights. +
-Programming language: Python.
+Programming language: Python; +
+Tools: matplotlib, numpy.
 
 ==== *Documentation writing:*
-https://github.com/mzhirko/amusement-park[Amusement Park Simulation]:::
+Project link: https://github.com/mzhirko/amusement-park[https://github.com/mzhirko/amusement-park]:::
 The conception of a project is to show documentation writing skills, based on knowledge of certain projecting patterns such as KISS, SOLID etc. The advantage of writing documentation as code is in its convenience to develop document and control changes. +
 Tools: Asciidoc, PlantUML.
 
 ==== *Visualized minimum cut algorithm:* 
-https://github.com/mzhirko/minimum-cut-of-an-undirected-graph[Visualised Stoer-Wagner algorithm]:::
+Project link: https://github.com/mzhirko/minimum-cut-of-an-undirected-graph[https://github.com/mzhirko/minimum-cut-of-an-undirected-graph]:::
 This project demonstrates the work of Stoer-Wagner algorithm, that is used to find a minimum cut of a graph. Demonstrantion is visualized with graphviz tool +
 Programming language: C++; +
 Tools: Graphviz.
 
 ==== *Java Toolbars:*
-https://github.com/mzhirko/javafx-basics[Java Frames]:::
+Project link: https://github.com/mzhirko/javafx-basics[https://github.com/mzhirko/javafx-basics]:::
 Project with a configured CI. Shows different visuals made by using JavaFX lib. +
 Programming language: Java; +
 Tools: Gradle, Github CI.
