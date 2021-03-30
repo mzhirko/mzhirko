@@ -21,7 +21,7 @@ image:gh.png[20,20] | https://github.com/mzhirko[mzhirko]
 
 ==== Operating Systems:
 *Linux:* Ubuntu, Debian, Mint, Arch; +
-*Other:* Windows WSL, MacOS (GNU core utils).
+*Other:* Windows WSL, FreeBSD, MacOS (GNU core utils).
 
 [#projects]
 === Projects
