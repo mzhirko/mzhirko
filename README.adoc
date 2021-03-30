@@ -84,8 +84,8 @@ Tools: Gradle, Github CI.
 *Hobbies:* +
 traveling, driving, drawing, art, self-education, walking, baking, communication, electronics, classical literature & music.
 
-[#perspectives]
-=== Perspectives
+[#prospects]
+=== Prospects
 '''
 Grow and develop soft and hard skills to correspond to surrounding requirements; +
 Take an advantage of doing hard tasks to get higher on the proficiency scale; +
