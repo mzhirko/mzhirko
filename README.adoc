@@ -66,9 +66,13 @@ Tools: Gradle, Github CI.
 === Education
 '''
 [horizontal]
-2022  ~June~::  **Belarusian State University of Informatics and Radioelectronics;** Faculty: Faculty of Information Technologies and Control; +
-Degree:  Artificial Intelligence.
-2018  ~May~:: Minsk Gymnasium 29; Educational focus: English and Mathematics.
+2022  ~June~:::  
+*Belarusian State University of Informatics and Radioelectronics;* +
+Faculty: Faculty of Information Technologies and Control; +
+Degree:  Artificial Intelligence. +
+2018  ~May~::: 
+*Minsk Gymnasium 29;* +
+Educational focus: English and Mathematics.
 
 [#language-skills]
 === Language Skills
