@@ -29,7 +29,7 @@ Degree:  Artificial Intelligence.
 
 ==== Operating Systems:
 *Linux:* Ubuntu, Debian, Mint, Arch; +
-*Other:* Microsoft Windows, MacOS Sierra.
+*Other:* Windows WSL, MacOS (GNU core utils).
 
 [#language-skills]
 === Language Skills
