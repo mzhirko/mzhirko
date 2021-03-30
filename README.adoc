@@ -28,7 +28,7 @@ Degree:  Artificial Intelligence.
 *Tools:* Docker, Docker Compose, CI/CD, Git, Gradle, MySQL.
 
 ==== Operating Systems:
-*Linux:* Xubuntu, Ubuntu, Mint; +
+*Linux:* Ubuntu, Debian, Mint, Manjaro; +
 *Other:* Microsoft Windows, MacOS Sierra.
 
 [#language-skills]
