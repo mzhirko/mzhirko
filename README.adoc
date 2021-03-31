@@ -45,9 +45,9 @@ Implementation of an Elman network model with a linear activation function. +
 Programming language: Python; +
 Tools: numpy.
 
-==== *Documentation writing:*
+==== *Object oriented analysis and design:*
 Project link: https://github.com/mzhirko/amusement-park[https://github.com/mzhirko/amusement-park]:::
-The conception of a project is to show documentation writing skills, based on knowledge of certain projecting patterns such as KISS, SOLID, etc. The advantage of writing documentation as code is in its convenience to develop documents and control changes. +
+Practicing skills of developing documentation as a code. The conception of a project is to show documentation writing skills, based on knowledge of certain projecting patterns such as KISS, SOLID, etc. The advantage of writing documentation as code is in its convenience to develop documents and control changes. +
 Tools: Asciidoc, PlantUML.
 
 ==== *Visualized minimum cut algorithm:* 
@@ -66,7 +66,7 @@ Tools: Gradle, Github CI.
 === Education
 '''
 2022  ~June~:::  
-*Belarusian State University of Informatics and Radioelectronics* +
+*Belarusian State University of Informatics and Radioelectronics;* +
 Faculty: Faculty of Information Technologies and Control; +
 Degree:  Artificial Intelligence. +
 2018  ~May~::: 
