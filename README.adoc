@@ -69,10 +69,10 @@ Tools: Gradle, Github CI.
 [#language-skills]
 === Language Skills
 '''
-*Fluent:* English; +
-*Basic:* German; +
-*Native:* Belarusian; +
-*Native:* Russian.
+*English:* B2-C1; +
+*German:* A2-B1; +
+*Belarusian:* Native; +
+*Russian:* Native.
 
 [#work-experience]
 === Education
