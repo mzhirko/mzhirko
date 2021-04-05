@@ -28,7 +28,7 @@ Github | https://github.com/mzhirko[mzhirko]
 Project link: https://github.com/mzhirko/word-analyser[https://github.com/mzhirko/word-analyser]:::
 An application for displaying dictionary with a list of words ordered alphabetically which includes only lexemes with additionally formed information about the place and role of a given word in a sentence. +
 Programming language: Python; +
-Tools: Texterra REST[https://api.ispras.ru/texterra/v1/docs].
+Tools: https://api.ispras.ru/texterra/v1/docs[Texterra REST].
 
 ==== *Parking lot control system:*
 Project link: https://github.com/mzhirko/convenient-parking[https://github.com/mzhirko/convenient-parking]:::
