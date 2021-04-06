@@ -31,37 +31,37 @@ Programming language: Python; +
 Tools: https://api.ispras.ru/texterra/v1/docs[Texterra REST].
 
 ==== *Parking lot control system:*
-Project link: https://github.com/mzhirko/convenient-parking[https://github.com/mzhirko/convenient-parking]:::
+https://github.com/mzhirko/convenient-parking[https://github.com/mzhirko/convenient-parking]:::
 An application for recognizing free parking spaces using M-RCNN. The user provides photo or video data to process and find free parking spaces on it. Containerized in Docker. +
 Programming language: Python; +
 Tools: Docker, Keras, Tensorflow v.1, OpenCV.
 
 ==== *Image compression tool:* 
-Project link: https://github.com/mzhirko/image-compressor[https://github.com/mzhirko/image-compressor]:::
+https://github.com/mzhirko/image-compressor[https://github.com/mzhirko/image-compressor]:::
 An application for compressing images using the conception of recirculation neural network with adaptive learning step and normalization of weights. +
 Programming language: Python; +
 Tools: matplotlib, numpy.
 
 
 ==== *Sequence prediction tool:* 
-Project link: https://github.com/mzhirko/sequence-prediction[https://github.com/mzhirko/sequence-prediction]:::
+https://github.com/mzhirko/sequence-prediction[https://github.com/mzhirko/sequence-prediction]:::
 Implementation of an Elman network model with a linear activation function. +
 Programming language: Python; +
 Tools: numpy.
 
 ==== *Object oriented analysis and design:*
-Project link: https://github.com/mzhirko/amusement-park[https://github.com/mzhirko/amusement-park]:::
+https://github.com/mzhirko/amusement-park[https://github.com/mzhirko/amusement-park]:::
 Practicing skills of developing documentation as a code. The conception of a project is to show documentation writing skills, based on knowledge of certain projecting patterns such as KISS, SOLID, etc. The advantage of writing documentation as code is in its convenience to develop documents and control changes. +
 Tools: Asciidoc, PlantUML.
 
 ==== *Visualized minimum cut algorithm:* 
-Project link: https://github.com/mzhirko/minimum-cut-of-an-undirected-graph[https://github.com/mzhirko/minimum-cut-of-an-undirected-graph]:::
+https://github.com/mzhirko/minimum-cut-of-an-undirected-graph[https://github.com/mzhirko/minimum-cut-of-an-undirected-graph]:::
 This project demonstrates the work of the Stoer-Wagner algorithm, which is used to find a minimum cut of a graph. The demonstration is visualized with the Graphviz tool. +
 Programming language: C++; +
 Tools: Graphviz.
 
 ==== *Java Toolbars:*
-Project link: https://github.com/mzhirko/javafx-basics[https://github.com/mzhirko/javafx-basics]:::
+https://github.com/mzhirko/javafx-basics[https://github.com/mzhirko/javafx-basics]:::
 Project with a configured CI. Shows different visuals made by using JavaFX lib. +
 Programming language: Java; +
 Tools: Gradle, Github CI.
