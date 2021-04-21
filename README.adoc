@@ -24,13 +24,9 @@ Github | https://github.com/mzhirko[mzhirko]
 [#projects]
 === Projects
 '''
-==== *Bibliography Application for OSTIS*
-Project link: https://github.com/JacksSparr0w/bookApp.git[https://github.com/JacksSparr0w/bookApp.git]:::
-Development of extension of the knowledge base for the https://github.com/ostis-dev[OSTIS system] in the Bibliography domain. https://github.com/JacksSparr0w/bookApp/pull/2[Creating a structure for key subsections and their description, creating templates of classes, their attributes and entities]. https://github.com/JacksSparr0w/bookApp/pull/3[Refactoring of the system upon completion]. +
-Tools: https://github.com/ostis-dev[OSTIS], https://github.com/ostis-dev/kbe[KBE], HTML.
 
 ==== *Automated Natural Language Dictionary System*
-Project link: https://github.com/mzhirko/word-analyser[https://github.com/mzhirko/word-analyser]:::
+https://github.com/mzhirko/word-analyser[https://github.com/mzhirko/word-analyser]:::
 An application for displaying dictionary with a list of words ordered alphabetically which includes only lexemes with additionally formed information about the place and role of a given word in a sentence. +
 Programming language: Python; +
 Tools: https://api.ispras.ru/texterra/v1/docs[Texterra REST].
@@ -41,12 +37,10 @@ An application for recognizing free parking spaces using M-RCNN. The user provid
 Programming language: Python; +
 Tools: Docker, Keras, Tensorflow v.1, OpenCV.
 
-==== *Image compression tool:* 
-https://github.com/mzhirko/image-compressor[https://github.com/mzhirko/image-compressor]:::
-An application for compressing images using the conception of recirculation neural network with adaptive learning step and normalization of weights. +
-Programming language: Python; +
-Tools: matplotlib, numpy.
-
+==== *Bibliography Application for OSTIS*
+https://github.com/JacksSparr0w/bookApp.git[https://github.com/JacksSparr0w/bookApp.git]:::
+Development of app extension of the knowledge base for the https://github.com/ostis-dev[OSTIS system] in Bibliography domain. https://github.com/JacksSparr0w/bookApp/pull/2[Creating a structure for key subsections and their description, creating templates of classes, their attributes and entities]. https://github.com/JacksSparr0w/bookApp/pull/3[Refactoring of the system upon completion]. +
+Tools: https://github.com/ostis-dev[OSTIS], https://github.com/ostis-dev/kbe[KBE], HTML.
 
 ==== *Sequence prediction tool:* 
 https://github.com/mzhirko/sequence-prediction[https://github.com/mzhirko/sequence-prediction]:::
@@ -64,6 +58,12 @@ https://github.com/mzhirko/minimum-cut-of-an-undirected-graph[https://github.com
 This project demonstrates the work of the Stoer-Wagner algorithm, which is used to find a minimum cut of a graph. The demonstration is visualized with the Graphviz tool. +
 Programming language: C++; +
 Tools: Graphviz.
+
+==== *Image compression tool:* 
+https://github.com/mzhirko/image-compressor[https://github.com/mzhirko/image-compressor]:::
+An application for compressing images using the conception of recirculation neural network with adaptive learning step and normalization of weights. +
+Programming language: Python; +
+Tools: matplotlib, numpy.
 
 ==== *Java Toolbars:*
 https://github.com/mzhirko/javafx-basics[https://github.com/mzhirko/javafx-basics]:::
