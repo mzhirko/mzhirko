@@ -3,7 +3,7 @@
 
 = Maria Zhirko
 
-==== Software Engineer
+==== AI Engineer
 Location | Minsk, Belarus +
 Phone Number | +375(29)3778667 +
 Gmail | \mzhirko@gmail.com +
@@ -24,6 +24,11 @@ Github | https://github.com/mzhirko[mzhirko]
 [#projects]
 === Projects
 '''
+==== *Bibliography Application for OSTIS*
+Project link: https://github.com/JacksSparr0w/bookApp.git[https://github.com/JacksSparr0w/bookApp.git]:::
+Development of extension of the knowledge base for the https://github.com/ostis-dev[OSTIS system] in the Bibliography domain. https://github.com/JacksSparr0w/bookApp/pull/2[Creating a structure for key subsections and their description, creating templates of classes, their attributes and entities]. https://github.com/JacksSparr0w/bookApp/pull/3[Refactoring of the system upon completion]. +
+Tools: https://github.com/ostis-dev[OSTIS], https://github.com/ostis-dev/kbe[KBE], HTML.
+
 ==== *Automated Natural Language Dictionary System*
 Project link: https://github.com/mzhirko/word-analyser[https://github.com/mzhirko/word-analyser]:::
 An application for displaying dictionary with a list of words ordered alphabetically which includes only lexemes with additionally formed information about the place and role of a given word in a sentence. +
