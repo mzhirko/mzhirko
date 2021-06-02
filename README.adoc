@@ -39,7 +39,7 @@ Tools: numpy.
 
 ==== *Natural Language Processing System*
 https://github.com/mzhirko/natural-language-processing-in-intellectual-systems[https://github.com/mzhirko/natural-language-processing-in-intellectual-systems]:::
-Applications to work with texts. Investigationg into NLP basics. Word analyser stands for displaying dictionary with a list of words, ordered alphabetically, which includes only lexemes with additionally formed information about the place and role of a given word in a sentence. Syntax tree parses entered sentence into a tree of speech parts. Semantic parse app finds words in a given text document, similar to the word entered by user. +
+Applications to work with texts, made to investigate into NLP basics. Word analyser stands for displaying dictionary with a list of words, ordered alphabetically, which includes only lexemes with additionally formed information about the place and role of a given word in a sentence. Syntax tree parses entered sentence into a tree of speech parts. Semantic parse app finds words in a given text document, similar to the word entered by user. +
 Programming language: Python; + 
 Natural Language: Russian; +
 Tools: https://api.ispras.ru/texterra/v1/docs[Texterra REST].
